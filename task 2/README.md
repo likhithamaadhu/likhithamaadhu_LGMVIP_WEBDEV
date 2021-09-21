@@ -1,3 +1,7 @@
+# Task-2
+1.Create a User card grid layout having a navbar showing any brand name
+2.Add a button in the navbar saying 'Get Users', which makes an API call to get the user data
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +72,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Output
+<img width="950" alt="lgm task-2 output" src="https://user-images.githubusercontent.com/84303726/134143545-69241027-77b8-4e2c-86d8-13a015fc558d.png">
