@@ -1,6 +1,6 @@
 # Task-2
-1.Create a User card grid layout having a navbar showing any brand name
-2.Add a button in the navbar saying 'Get Users', which makes an API call to get the user data
+* Create a User card grid layout having a navbar showing any brand name
+* Add a button in the navbar saying 'Get Users', which makes an API call to get the user data
 
 # Getting Started with Create React App
 
